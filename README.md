@@ -10,7 +10,7 @@ We deploy a basic [HelloWorld](./HelloWorld.sol) smart contract using thirdweb d
 
 ## Tools
 
-- [**thirdweb Marketplace**](https://portal.thirdweb.com/thirdweb-deploy): Deploy our `HelloWorld.sol` smart contract with zero configuration by running `npx thirdweb deploy`.
+- [**thirdweb Deploy**](https://portal.thirdweb.com/thirdweb-deploy): Deploy our `HelloWorld.sol` smart contract with zero configuration by running `npx thirdweb deploy`.
 - [**thirdweb React SDK**](https://docs.thirdweb.com/react): to enable users to connect and disconnect their wallets with our website, and access hooks such as [useContract](https://portal.thirdweb.com/react/react.useContract) to interact with the contract.
 
 ## Using This Repo
