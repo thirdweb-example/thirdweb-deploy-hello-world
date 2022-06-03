@@ -6,7 +6,7 @@ This example demonstrates a basic project utilising the thirdweb SDK to interact
 
 We deploy a basic [HelloWorld](./HelloWorld.sol) smart contract using thirdweb deploy, containing a `get` and `set` function to view data stored in the smart contract, and interact with it using the [thirdweb React SDK](https://portal.thirdweb.com/react).
 
-**Check out the Demo here**: TODO
+**Check out the Demo here**: https://thirdweb-deploy-hello-world.thirdweb-example.com/
 
 ## Tools
 
