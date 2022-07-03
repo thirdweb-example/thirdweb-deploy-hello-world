@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This example demonstrates a basic project utilising the thirdweb SDK to interact with a simple contract deployed with [thirdweb deploy](https://portal.thirdweb.com/thirdweb-deploy).
+This example demonstrates a basic project utilizing the thirdweb SDK to interact with a simple contract deployed with [thirdweb deploy](https://portal.thirdweb.com/thirdweb-deploy).
 
 We deploy a basic [HelloWorld](./HelloWorld.sol) smart contract using thirdweb deploy, containing a `get` and `set` function to view data stored in the smart contract, and interact with it using the [thirdweb React SDK](https://portal.thirdweb.com/react).
 
@@ -11,7 +11,7 @@ We deploy a basic [HelloWorld](./HelloWorld.sol) smart contract using thirdweb d
 ## Tools
 
 - [**thirdweb Deploy**](https://portal.thirdweb.com/thirdweb-deploy): Deploy our `HelloWorld.sol` smart contract with zero configuration by running `npx thirdweb deploy`.
-- [**thirdweb React SDK**](https://docs.thirdweb.com/react): to enable users to connect and disconnect their wallets with our website, and access hooks such as [useContract](https://portal.thirdweb.com/react/react.useContract) to interact with the contract.
+- [**React SDK**](https://docs.thirdweb.com/react): to enable users to connect and disconnect their wallets with our website, and access hooks such as [useContract](https://portal.thirdweb.com/react/react.useContract) to interact with the contract.
 
 ## Using This Repo
 
