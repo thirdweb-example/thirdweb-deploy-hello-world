@@ -18,7 +18,7 @@ We deploy a basic [HelloWorld](./HelloWorld.sol) smart contract using thirdweb d
 - Create a copy of this repo by running the below command:
 
 ```bash
-npx thirdweb create --example thirdweb-deploy-hello-world
+npx thirdweb create --template thirdweb-deploy-hello-world
 ```
 
 - Deploy the `HelloWorld.sol` smart contract by running the below command from the root of the project directory:
